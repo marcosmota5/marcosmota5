@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://marcosmota.tech/profile_picture.png"  />
+
 </div>
 
 ###
