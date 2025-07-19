@@ -64,7 +64,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="12" alt="linkedin logo" /> LinkedIn: [linkedin.com/in/marcosmota5](https://linkedin.com/in/marcosmota5)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/250px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" height="12" alt="outlook logo" /> Email: [marcosmota5@hotmail.com](mailto:marcosmota5@hotmail.com)
 - <img src="https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-hostgator-brasil-v1-0-7%2F857%2F410857%2F5xwRfPgX%2F5faaf91f025443e6991b43aa0d807efa&methods=resize%2C500%2C5000" height="12" alt="marcosmota.tech logo" /> Portfolio: [marcosmota.tech](https://marcosmota.tech)
-- <img src="https://proreports.net/proreports_logo.png" height="12" alt="proreports logo" /> My company: [proreports.net (WIP)](https://proreports.net)
+- <img src="https://marcosmota.tech/proreports_logo.png" height="12" alt="proreports logo" /> My company: [proreports.net (WIP)](https://proreports.net)
 
 ###
 
