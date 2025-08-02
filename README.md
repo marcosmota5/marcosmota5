@@ -12,7 +12,7 @@
 
 <h1 align="center">Hey there, I'm Marcos Mota 👋</h1>
 <h3 align="center">Senior BI/Data Engineer | Full-Stack .NET Developer | Microsoft Certified | Power BI Data Analyst Associate (PL-300) | Fabric Analytics Engineer Associate (DP-600)</h3>
-<p align="center"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" alt="Microsoft Certified Badge" /></p>
+<p align="center"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" alt="Microsoft Certified Badge" /> <img src="http://marcosmota.tech/PSPOI.png" width="120" alt="Professional Scrum Product Owner I" /></p>
 
 ###
 
@@ -70,7 +70,7 @@
 
 <h3 align="left">🚀 Highlighted public projects</h3>
 
-- <img src="https://proreports.net/sgt_new_icon.ico" height="12" alt="sgt logo" /> [SGT (Total Management System)](https://github.com/marcosmota5/SGT.Public): Desktop system made in WPF/C# using the MVVM pattern in order to manage multiple operational aspects of a company.
+- <img src="https://marcosmota.tech/sgt_new_icon.ico" height="12" alt="sgt logo" /> [SGT (Total Management System)](https://github.com/marcosmota5/SGT.Public): Desktop system made in WPF/C# using the MVVM pattern in order to manage multiple operational aspects of a company.
 - <img src="https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-hostgator-brasil-v1-0-7%2F857%2F410857%2F5xwRfPgX%2F5faaf91f025443e6991b43aa0d807efa&methods=resize%2C500%2C5000" height="12" alt="marcosmota.tech logo" /> Check more in my portfolio: [marcosmota.tech/portfolio](https://marcosmota.tech/portfolio)
 
 ###
