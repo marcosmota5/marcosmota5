@@ -54,6 +54,7 @@
 
 - <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="12" alt="Microsoft Certified Badge" /> [Microsoft Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/MarcosMota-1781/BC4094478469220?sharingId)
 - <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="12" alt="Microsoft Certified Badge" /> [Microsoft Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/api/credentials/share/en-us/MarcosMota-1781/75DFCDF2FB04CD67?sharingId)
+- <img src="http://marcosmota.tech/PSPOI.png" width="12" alt="Professional Scrum Product Owner I Badge" /> [Professional Scrum Product Owner I (use my email marcosmota5@hotmail.com for verification)](https://www.scrum.org/certificates/1239900)
 - <img src="https://media.licdn.com/dms/image/v2/D560BAQGWiBJ7Sl2OSQ/company-logo_100_100/B56Zar0bRuGkAU-/0/1746639369551/celpip_cael_by_prometric_logo?e=1757548800&v=beta&t=EiqkCzR1f4y6-_V2AybPNtIVkqoSp9DScXlSAft4A0o" height="12" alt="celpip logo"/> [CELPIP General (English Proficiency): CLB 11/12](https://www.linkedin.com/in/marcosmota5/details/certifications/)
 - <img src="https://api.ca.badgr.io/public/assertions/mDHbyd8pSz2_uwZTRINXVg/image" height="12" alt="innovation fintech weekend 2024 logo" /> [Innovation FinTech Weekend 2024](https://ca.badgr.com/public/assertions/mDHbyd8pSz2_uwZTRINXVg)
 
