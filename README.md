@@ -21,7 +21,7 @@
 ###
 
 - 🎓 Education
-  -  Diploma in Computer Programming (Georgian College - Expected Graduation August 2025)
+  -  Diploma in Computer Programming (Georgian College)
   -  Graduate Certificate in Business Intelligence & Analytics (Post-Graduation/Specialization)
   -  Bachelor’s Degree in Engineering of Petroleum and Gas
 - 🧑🏻‍💼 10+ years of experience in BI, data analysis/engineering, and software development
